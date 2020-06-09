@@ -10,7 +10,6 @@ paginate = 5
 
 [params]
 title = "Soho Theme"
-description = "Example Blog"
 # gravatar = "soho@example.com"
 images = ["images/profile.png"]
 profilePicture = "images/profile.png"
@@ -24,19 +23,9 @@ mainSections = ["post"]
 # themeColor = "#fc2803"
 
   [[params.socialIcons]]
-  icon = "fa-linkedin"
-  title = "Linkedin"
-  url = "#"
-
-  [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
-  url = "https://github.com/alexandrevicenzi/soho"
-
-  [[params.socialIcons]]
-  icon = "fa-twitter"
-  title = "Twitter"
-  url = "#"
+  url = "https://github.com/ERu085730/"
 
 [taxonomies]
   series = "series"
