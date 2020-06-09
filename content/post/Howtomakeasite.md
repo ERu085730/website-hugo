@@ -29,7 +29,7 @@ author: "ERu"
 2. 對其點右鍵編輯
 3. 輸入以下的文字
 
-
+程式碼:
 	g:                   //需更改為安裝Hugo的磁碟 例如: C: 或  D:
 	cd \Hugo\first_site  //cd \後為Hugo安裝後所在網頁的路徑
 
