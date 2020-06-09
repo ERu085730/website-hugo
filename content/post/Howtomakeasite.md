@@ -5,6 +5,8 @@ draft: false
 description : "詳情請看 Read More"
 author: "ERu"
 font: "黑體"
+tags : ["batch file"]
+categories : [ "Hugo", "Github" ] 
 ---
 
 當你寫好一篇又一篇的新文章卻發現網站沒有
