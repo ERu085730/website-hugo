@@ -46,7 +46,7 @@ font: "黑體"
 
 	cd ../
 	git init
-	git remote add origin https://github.com/ERu085730/website-hugo.git //ERu085730更改為你的Github帳號
+	git remote add origin https://github.com/ERu085730/website-hugo.git     //ERu085730更改為你的Github帳號
 	git add .
 	git commit -m "Initial commit"
 	git push -u origin master
