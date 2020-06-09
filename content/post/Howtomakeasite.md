@@ -25,9 +25,9 @@ author: "ERu"
 在此我們就不介紹Batch file的一些指令，直接
 教大家如何操作
 
-1.首先創建一個.txt檔將其更改為.bat檔
-2.對其點右鍵編輯
-3.輸入以下的文字
+1. 首先創建一個.txt檔將其更改為.bat檔
+2. 對其點右鍵編輯
+3. 輸入以下的文字
 
 	g:                   //需更改為安裝Hugo的磁碟 例如: C: 或  D:
 	cd \Hugo\first_site  //cd \後為Hugo安裝後所在網頁的路徑
@@ -36,14 +36,14 @@ author: "ERu"
 
 	cd public
 	git init
-	git remote add origin https://github.com/ERu085730/ERu085730.github.io.git
+	git remote add origin https://github.com/ERu085730/ERu085730.github.io.git  //ERu085730更改為你的Github帳號
 	git add .
 	git commit -m "Initial commit"
 	git push -u origin master
 
 	cd ../
 	git init
-	git remote add origin https://github.com/ERu085730/website-hugo.git
+	git remote add origin https://github.com/ERu085730/website-hugo.git //ERu085730更改為你的Github帳號
 	git add .
 	git commit -m "Initial commit"
 	git push -u origin master
