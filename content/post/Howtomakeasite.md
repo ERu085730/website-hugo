@@ -5,7 +5,6 @@ draft: false
 description : "詳情請看 Read More"
 author: "ERu"
 font: "黑體"
-font color: "red"
 ---
 
 當你寫好一篇又一篇的新文章卻發現網站沒有
@@ -15,14 +14,14 @@ font color: "red"
 上述的動作自動上傳因此我們需要使用以下工
 具。
 
-## <font color="#dd0000">Batch file(批次檔)
+## <font color="#dd0000">Batch file(批次檔)<font>
 
 批次檔可以將windows上的許多指令通通濃縮到
 個檔案之中，只需要執行寫好的批次檔，便能夠
 一次完成，甚至也能夠使用工作排程器，讓他在
 電腦的特定狀況或時間下自動執行。
 
-## <font color="#dd0000">如何自動更新網站
+## <font color="#dd0000">如何自動更新網站<font>
 
 在此我們就不介紹Batch file的一些指令，直接
 教大家如何操作
@@ -57,4 +56,4 @@ font color: "red"
 5. 撰寫文章 or更新內容
 6. 開啟此.bat檔
 
-### <font color="#dd0000">若完成以上步驟，之後使用僅需 操作5、6兩步驟即可快速上傳新增的內容
+### <font color="#dd0000">若完成以上步驟，之後使用僅需 操作5、6兩步驟即可快速上傳新增的內容<font>
