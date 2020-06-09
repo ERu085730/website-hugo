@@ -2,7 +2,13 @@
 title: "Hugo & Github 如何快速(半自動)更新網站(windows10)"
 date: 2020-06-09T14:26:32+08:00
 draft: false
-description : "詳情請看 Read More"
+description : "
+當你寫好一篇又一篇的新文章卻發現網站沒有
+將你的內容更新上去，因此你只好上網搜尋，
+卻發現需要一步一步將之前所打過的指令重新
+打過一次，但人是懶惰的，所以我們就需要將
+上述的動作自動上傳因此我們需要使用以下工
+具。"
 author: "ERu"
 font: "黑體"
 tags : ["batch file"]
