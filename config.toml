@@ -13,7 +13,7 @@ title = "Soho Theme"
 # gravatar = "soho@example.com"
 images = ["images/profile.png"]
 profilePicture = "images/profile.png"
-copyright = "Author Name"
+copyright = "ERu"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 builtWith = true
@@ -58,11 +58,6 @@ mainSections = ["post"]
   weight = 10
   url = "/about/"
 
-  [[menu.main]]
-  name = "Contact"
-  identifier = "contact"
-  weight = 20
-  url = "/contact/"
 
 [markup]
 
