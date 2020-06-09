@@ -2,7 +2,7 @@
 title: "Hugo & Github 如何快速(半自動)更新網站(windows10)"
 date: 2020-06-09T14:26:32+08:00
 draft: false
-description : ""
+description : "詳情請看 Read More"
 author: "ERu"
 ---
 
