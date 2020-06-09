@@ -2,6 +2,7 @@
 title: "Hugo & Github 如何快速(半自動)更新網站(windows10)"
 date: 2020-06-09T14:26:32+08:00
 draft: false
+description : "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 author: "ERu"
 ---
 
