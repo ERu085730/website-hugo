@@ -16,3 +16,10 @@ author: "ERu"
 搜尋Hugo release 進入網站
 https://github.com/gohugoio/hugo/releases 
 
+
+
+
+
+
+gggggggggggggggggggggggggg
+
