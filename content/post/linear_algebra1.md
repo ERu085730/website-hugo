@@ -2,7 +2,12 @@
 title: "Vector Space 的構成要素及條件"
 date: 2020-06-10T20:10:17+08:00
 draft: false
-description : "詳情請看 Read More"
+description : "
+## Vector Space 的構成三要素
+
+1. V:一個集合 (內部為向量)
+2. F:稱為體，可進行加減乘除(內部為純量)
+3. 運算符號: '+':加法(V加V) 、 '·':乘法(F乘V)"
 author: "ERu"
 font: "黑體"
 categories : [ "線性代數" ] 
