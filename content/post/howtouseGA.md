@@ -46,7 +46,7 @@ https://analytics.google.com/
 接著進到網站套用的主題目錄中的  
 \layouts\partials\head.html 或  
 \layouts\partials\header.html  
-複製到剛剛找到(建立)的partials裡
+複製到剛剛找到(建立)的partials裡(若無也請自行新增)
 ![image](/images/GA/GA11.png)
 
 將head.html 或header.html 新增以下程式碼
@@ -56,6 +56,7 @@ https://analytics.google.com/
 
 再到剛剛找到(建立)的_internal裡，新增一個檔案名  
 "google_analytics_async.html"，並將全域網站代碼複製到此檔案並儲存。
+![image](/images/GA/GA13.png)
 
 ### 此時僅需發布您的網站即可於GA首頁查詢流量了
 ![image](/images/GA/GA12S.png)
