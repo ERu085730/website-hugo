@@ -40,7 +40,7 @@ https://analytics.google.com/
 開啟Hugo網站根目錄的config.toml
 並且加入以下的程式碼並儲存
 
-    googleAnalytics = "UA-XXXXXX" //UA-XXXXXX 需更換追蹤ID
+    googleAnalytics = "UA-XXXXXX" //UA-XXXXXX 需更換為追蹤ID
 
 開啟根目錄的\layouts中找到"partials"和"_internal"兩個目錄(若無請自行新增)  
 接著進到網站套用的主題目錄中的  
