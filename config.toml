@@ -44,7 +44,7 @@ mainSections = ["post"]
 
   [[menu.main]]
   name = "Categories"
-  weight = 200
+  weight = 300
   identifier = "categories"
   url = "/categories/"
 
@@ -57,7 +57,7 @@ mainSections = ["post"]
   [[menu.main]]
   name = "About"
   identifier = "about"
-  weight = 10
+  weight = 150
   url = "/about/"
 
 
