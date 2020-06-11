@@ -61,6 +61,7 @@ https://analytics.google.com/
 ### 此時僅需發布您的網站即可於GA首頁查詢流量了
 ![image](/images/GA/GA12S.png)
 
+Reference : https://gohugo.io/templates/internal/
 
 
 
