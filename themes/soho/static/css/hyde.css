@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 14rem;
   }
 
   footer {
@@ -131,7 +131,7 @@ footer {
 @media (min-width: 48em) {
   .content {
     max-width: 52rem;
-    margin-left: 20rem;
+    margin-left: 10rem;
     margin-right: 2rem;
     margin-bottom: -40px;
     min-height: 100%;
