@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: 'Open Sans', 'Roboto', Helvetica, Arial, sans-serif;
+  font-family: 'MicrosoftJhengHei','Calibri';
 }
 @media (min-width: 48em) {
   html {
@@ -82,7 +82,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-size: 2.25rem;
+  font-size: 1.8rem;
   font-weight: 400;
 }
 
