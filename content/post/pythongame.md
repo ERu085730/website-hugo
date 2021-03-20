@@ -11,6 +11,6 @@ categories : [ "Python", "Game" ]
 
 gggggggggggg
 
-{{< video src="LuckyGoDog.mp4" controls="yes" >}}
+{{< video library="videos" src="LuckyGoDog.mp4" controls="yes" >}}
 ![image](/images/GA/GA1S.png)
 
