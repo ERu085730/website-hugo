@@ -11,7 +11,7 @@ categories : [ "Python", "Game" ]
 
 gggggggggggg
 
-![](/videos/LuckyGoDog.mp4)
+![video](/videos/LuckyGoDog.mp4)
 ![image](/images/GA/GA1S.png)
 
 <video width="320" height="240" controls>
