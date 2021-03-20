@@ -8,6 +8,12 @@ font: "黑體"
 categories : [ "Python", "Game" ] 
 ---
 
-![](/videos/LuckyGoDog.mp4)
 
 gggggggggggg
+
+![](/videos/LuckyGoDog.mp4)
+
+<video width="320" height="240" controls>
+  <source src="video.mov" type="video/mp4">
+</video>
+
