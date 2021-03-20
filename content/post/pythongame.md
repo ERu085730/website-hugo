@@ -11,10 +11,6 @@ categories : [ "Python", "Game" ]
 
 gggggggggggg
 
-![video](/videos/LuckyGoDog.mp4)
+{{< video "http://clappr.io/highline.mp4" "my-5" >}}
 ![image](/images/GA/GA1S.png)
-
-<video width="320" height="240" controls>
-  <source src="video.mov" type="video/mp4">
-</video>
 
