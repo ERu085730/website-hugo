@@ -9,8 +9,5 @@ categories : [ "Python", "Game" ]
 ---
 
 
-gggggggggggg
-
 {{< youtube R-NLrToJLSo >}}
-![image](/images/GA/GA1S.png)
 
