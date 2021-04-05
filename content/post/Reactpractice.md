@@ -10,3 +10,11 @@ categories : [ "Css", "Html","React","JSX" ]
 
 {{< youtube MTGJXVTrj8M >}}
 
+
+使用React並加入youtube的嵌入功能
+
+Github (https://github.com/ERu085730/ReactPractice)
+
+
+
+
