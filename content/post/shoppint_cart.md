@@ -7,7 +7,8 @@ author: "ERu"
 font: "黑體"
 ---
 
-shopping-cart
+![image](/images/shopping_cart.png)
+
 功能:
 -點擊商品跳出商品介紹
 -加入/刪除商品至購物車
