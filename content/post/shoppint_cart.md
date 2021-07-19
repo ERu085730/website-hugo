@@ -9,7 +9,7 @@ font: "黑體"
 
 ![image](/images/shopping_cart.png)
 
-功能:
+功能:  
 -點擊商品跳出商品介紹  
 -加入/刪除商品至購物車  
 
