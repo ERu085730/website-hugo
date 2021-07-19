@@ -2,7 +2,8 @@
 title: "React Django"
 date: 2021-07-19T15:12:33+08:00
 draft: false
-description : "詳情請看 Read More"
+description : "功能:  
+使用react串接django(作為api資料庫)"
 author: "ERu"
 font: "黑體"
 ---
