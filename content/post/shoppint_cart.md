@@ -10,19 +10,19 @@ font: "黑體"
 ![image](/images/shopping_cart.png)
 
 功能:
--點擊商品跳出商品介紹
--加入/刪除商品至購物車
+-點擊商品跳出商品介紹  
+-加入/刪除商品至購物車  
 
-html/css:
--Sassy css(scss)
--RWD
+html/css:  
+-Sassy css(scss)  
+-RWD  
 
-jascript:
--es6 classes
+jascript:  
+-es6 classes  
 
-Demo:
+Demo:  
 https://shopping-cart-practice.netlify.app/
 
-github:
+github:  
 https://github.com/ERu085730/shopping-cart
 
